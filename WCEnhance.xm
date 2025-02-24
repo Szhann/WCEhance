@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 
 @interface WCTableViewCellLeftConfig : NSObject
-@property(copy, nonatomic) NSString *title; // @synthesize title=_title;
+@property(copy, nonatomic) NSString *title; // @synthesize title=_titles;
 @end
 
 @interface WCC2CImageScrollView : UIView
